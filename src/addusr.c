@@ -1,11 +1,16 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <time.h>
 #include "addusr.h"
 #include "usrway.h"
 
 void addusr(Usrlist* pusrlist, Usr* pusr)
 {
     FILE* pfusr = fopen(USR_FILE, "a");
+
+    srand((unsigned int)time(NULL));
+    int verification_code = 0;
+    int verification_input = 0;
 
     // 创建节点
     Usr_node *p = (Usr_node*)malloc(sizeof(Usr_node));
@@ -43,8 +48,16 @@ void addusr(Usrlist* pusrlist, Usr* pusr)
         printf("请确认密码: ");
         scanf("%ld", &passagain);
         if ( passagain == passward ) {
-            p->usr.passward = passward;
-            result = 1;
+            verification_code = rand();
+            printf("验证码: %d",verification_code);
+            printf("请输入验证码: ");
+            scanf("%d", &verification_input);
+            if ( verification_code == verification_input ) {
+                p->usr.passward = passward;
+                result = 1;
+            } else {
+                printf("验证码错误\n");
+            }
         } else {
             printf("密码不一致\n");
         }

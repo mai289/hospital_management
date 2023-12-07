@@ -19,6 +19,11 @@ CMakeFiles/main.dir/src/addusr.c.obj: \
  D:/Programing/Environment/mingw64/x86_64-w64-mingw32/include/limits.h \
  D:/Programing/Environment/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
  D:/Programing/Environment/mingw64/x86_64-w64-mingw32/include/malloc.h \
+ D:/Programing/Environment/mingw64/x86_64-w64-mingw32/include/time.h \
+ D:/Programing/Environment/mingw64/x86_64-w64-mingw32/include/_timeval.h \
+ D:/Programing/Environment/mingw64/x86_64-w64-mingw32/include/sys/timeb.h \
+ D:/Programing/Environment/mingw64/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
+ D:/Programing/Environment/mingw64/x86_64-w64-mingw32/include/pthread_time.h \
  D:/Programing/Code/C/C_vsc/hospital_management/include/addusr.h \
  D:/Programing/Code/C/C_vsc/hospital_management/include/usrway.h \
  D:/Programing/Code/C/C_vsc/hospital_management/include/loadusr.h \
