@@ -1,0 +1,32 @@
+[
+{
+  "directory": "D:/Programing/Code/C/C_vsc/hospital_management/build",
+  "command": "D:\\Programing\\Environment\\mingw64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp  -O2 -g -Wall -g -o CMakeFiles\\main.dir\\main.c.obj -c D:\\Programing\\Code\\C\\C_vsc\\hospital_management\\main.c",
+  "file": "D:/Programing/Code/C/C_vsc/hospital_management/main.c",
+  "output": "CMakeFiles/main.dir/main.c.obj"
+},
+{
+  "directory": "D:/Programing/Code/C/C_vsc/hospital_management/build",
+  "command": "D:\\Programing\\Environment\\mingw64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp  -O2 -g -Wall -g -o CMakeFiles\\main.dir\\src\\addusr.c.obj -c D:\\Programing\\Code\\C\\C_vsc\\hospital_management\\src\\addusr.c",
+  "file": "D:/Programing/Code/C/C_vsc/hospital_management/src/addusr.c",
+  "output": "CMakeFiles/main.dir/src/addusr.c.obj"
+},
+{
+  "directory": "D:/Programing/Code/C/C_vsc/hospital_management/build",
+  "command": "D:\\Programing\\Environment\\mingw64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp  -O2 -g -Wall -g -o CMakeFiles\\main.dir\\src\\loadusr.c.obj -c D:\\Programing\\Code\\C\\C_vsc\\hospital_management\\src\\loadusr.c",
+  "file": "D:/Programing/Code/C/C_vsc/hospital_management/src/loadusr.c",
+  "output": "CMakeFiles/main.dir/src/loadusr.c.obj"
+},
+{
+  "directory": "D:/Programing/Code/C/C_vsc/hospital_management/build",
+  "command": "D:\\Programing\\Environment\\mingw64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp  -O2 -g -Wall -g -o CMakeFiles\\main.dir\\src\\login.c.obj -c D:\\Programing\\Code\\C\\C_vsc\\hospital_management\\src\\login.c",
+  "file": "D:/Programing/Code/C/C_vsc/hospital_management/src/login.c",
+  "output": "CMakeFiles/main.dir/src/login.c.obj"
+},
+{
+  "directory": "D:/Programing/Code/C/C_vsc/hospital_management/build",
+  "command": "D:\\Programing\\Environment\\mingw64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp  -O2 -g -Wall -g -o CMakeFiles\\main.dir\\src\\usrway.c.obj -c D:\\Programing\\Code\\C\\C_vsc\\hospital_management\\src\\usrway.c",
+  "file": "D:/Programing/Code/C/C_vsc/hospital_management/src/usrway.c",
+  "output": "CMakeFiles/main.dir/src/usrway.c.obj"
+}
+]

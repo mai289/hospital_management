@@ -1,0 +1,16 @@
+{
+    "cmake.outputLogEncoding": "gbk",
+    "files.autoGuessEncoding": true,
+    "files.encoding": "gbk",
+    "files.associations": {
+        "string.h": "c",
+        "stdio.h": "c",
+        "conio.h": "c",
+        "usrway.h": "c",
+        "stdbool.h": "c",
+        "stdlib.h": "c",
+        "addusr.h": "c",
+        "main.h": "c",
+        "login.h": "c"
+    }
+}

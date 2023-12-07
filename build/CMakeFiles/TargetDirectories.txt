@@ -1,0 +1,5 @@
+D:/Programing/Code/C/C_vsc/hospital_management/build/CMakeFiles/main.dir
+D:/Programing/Code/C/C_vsc/hospital_management/build/CMakeFiles/edit_cache.dir
+D:/Programing/Code/C/C_vsc/hospital_management/build/CMakeFiles/rebuild_cache.dir
+D:/Programing/Code/C/C_vsc/hospital_management/build/src/CMakeFiles/edit_cache.dir
+D:/Programing/Code/C/C_vsc/hospital_management/build/src/CMakeFiles/rebuild_cache.dir
